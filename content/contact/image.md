@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Photo by Kevin McMahon
+title: 
 subtitle:
 
 design:
@@ -21,6 +21,7 @@ design:
     image_position: center
     image_size: cover
     text_color_light: true
+    title: Photo by Kevin McMahon
   spacing:
     padding: ["20px", "0", "20px", "0"]
 advanced:
