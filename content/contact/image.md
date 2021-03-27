@@ -15,7 +15,8 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: contact.jpg
+    image: kevin-mcmahon-krdaqfywjlw-unsplash.jpg
+    text: Photo by <a href="https://unsplash.com/@kevinpmcmahon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin McMahon</a> on <a href="https://unsplash.com/s/photos/granada-alhambra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     image_darken: 0
     image_parallax: false
     image_position: center
