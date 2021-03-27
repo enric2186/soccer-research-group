@@ -2,7 +2,7 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: banner
+widget_id:
 headless: true
 weight: 30
 title: null
