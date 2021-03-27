@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     image: /static/media/logo-1-.png
-hero_media: index[1].jpg
+hero_media: index-1-.jpg
 ---
 
 <p style=" text-align: justify;"><b>Soft Computing </b> is a field of artificial intelligence that exploits the tolerance for imprecision and uncertainty to achieve tractability, 
