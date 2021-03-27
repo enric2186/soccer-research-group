@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Photo by Kevin McMahon
+title:
 subtitle:
 
 design:
   columns: "1"
   background:
     image: kevin-mcmahon-krdaqfywjlw-unsplash.jpg
-     image_darken: 0
+    image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
