@@ -9,9 +9,9 @@ weight: 10
 title: Soccer Research Group
 subtitle: ""
 design:
-  columns: "1"
+  columns: "2"
   background:
-    image: /static/media/logo-1-.png
+    image: 
 hero_media: index-1-.jpg
 ---
 
