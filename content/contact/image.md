@@ -9,15 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title:
+title: Photo by <a href="https://unsplash.com/@kevinpmcmahon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin McMahon</a> on <a href="https://unsplash.com/s/photos/granada-alhambra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 subtitle:
 
 design:
   columns: "1"
   background:
     image: kevin-mcmahon-krdaqfywjlw-unsplash.jpg
-    text: Photo by <a href="https://unsplash.com/@kevinpmcmahon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin McMahon</a> on <a href="https://unsplash.com/s/photos/granada-alhambra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-    image_darken: 0
+     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
