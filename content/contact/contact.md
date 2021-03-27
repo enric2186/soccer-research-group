@@ -17,7 +17,7 @@ content:
   
   # Email form provider
   form:
-   subject: enric2186@gmail.com
+    subject: enric2186@gmail.com
     provider: netlify
     formspree:
       id:
