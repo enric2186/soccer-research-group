@@ -9,10 +9,9 @@ weight: 10
 title: Soccer Research Group
 subtitle: ""
 design:
-  columns: "2"
+  columns: "1"
   background:
-    image: 
-hero_media: index-1-.jpg
+    image:
 ---
 
 <p style=" text-align: justify;"><b>Soft Computing </b> is a field of artificial intelligence that exploits the tolerance for imprecision and uncertainty to achieve tractability, 
@@ -24,7 +23,7 @@ hero_media: index-1-.jpg
 					evolutionary algorithm. Some other general purpose methods from the extensive family of metaheuristic algorithms are also considered to perform robust search in complex spaces 
 					obtaining high quality solutions in reasonable time.</p>
 
-<p style=" text-align: justify;">The <span class="resaltado">SOCCER lab </span> is devoted to develop advanced research in theoretical aspects and practical applications of soft computing. 
+<p style=" text-align: justify;">The <b>SOCCER lab </b> is devoted to develop advanced research in theoretical aspects and practical applications of soft computing. 
 					Its members are especially focused on solving complex real-world problems using soft computing methods. We have a deep previous experience on providing soft computing solutions 
 					to many different application areas as heating ventilation-air conditioning system control, information retrieval, electrical energy distribution, assembly line balancing, 
 					visual science map design and mining, medical image segmentation and registration, skeleton-based forensic identification, and economic modeling.
