@@ -14,6 +14,6 @@ design:
     image: logo-1-.png
     image_parallax: false
     image_position: center
-    image_size: actual
+    image_size: contain
     text_color_light: true
 ---
