@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: 
-subtitle:
+subtitle: Photo by Kevin McMahon
 
 design:
   columns: "1"
