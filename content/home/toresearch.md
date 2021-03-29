@@ -13,5 +13,5 @@ cta:
   url: "event"
   label: More ...
   icon_pack: fas
-  icon: fa-book-open
+  icon: book-open
 ---
