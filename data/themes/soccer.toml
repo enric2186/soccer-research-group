@@ -5,7 +5,7 @@ name = "Soccer"
 light = true
 
 # Primary
-primary = "#4caf50"
+primary = "#232323"
 
 # Menu
 menu_primary = "#4caf50"
