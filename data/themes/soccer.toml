@@ -5,10 +5,10 @@ name = "Soccer"
 light = true
 
 # Primary
-primary = "#232323"
+primary = "#272E39"
 
 # Menu
-menu_primary = "#232323"
+menu_primary = "#272E39"
 menu_text = "#fff"
 menu_text_active = "#008b7e"
 menu_title = "#fff"
