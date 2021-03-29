@@ -4,7 +4,7 @@ advanced:
 widget: blank
 widget_id:
 headless: true
-weight: 30
+weight: 40
 title: null
 subtitle: null
 active: true
@@ -20,7 +20,8 @@ design:
   spacing:
     padding:
       - 20px
-      - 30px
+      - 60px
       - 20px
-      - 30px
+      - 60px
+
 ---
