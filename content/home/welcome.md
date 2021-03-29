@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: " "
 headless: true
-weight: 10
+weight: 20
 title: Soccer Research Group
 subtitle: ""
 design:
