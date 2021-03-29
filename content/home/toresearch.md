@@ -11,7 +11,7 @@ design:
     
 cta:
   url: "event"
-  label: Get Started
+  label: More ...
   icon_pack: fas
   icon: download
 ---
