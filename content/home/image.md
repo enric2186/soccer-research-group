@@ -12,5 +12,5 @@ design:
     image_size: actual
     text_color_light: true
   spacing:
-    padding: [10px, 0px, 10px, 0px]
+    padding: [200px, 0px, 200px, 0px]
 ---
