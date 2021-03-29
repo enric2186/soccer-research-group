@@ -2,7 +2,7 @@
 advanced:
   ? css_style
   ? css_class
-widget: hero
+widget: blank
 widget_id: " "
 headless: true
 weight: 10
@@ -10,8 +10,6 @@ title: Soccer Research Group
 subtitle: ""
 design:
   columns: "1"
-  background:
-    image:
 ---
 
 <p style=" text-align: justify;"><b>Soft Computing </b> is a field of artificial intelligence that exploits the tolerance for imprecision and uncertainty to achieve tractability, 
