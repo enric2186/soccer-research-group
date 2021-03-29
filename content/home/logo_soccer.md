@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: " "
+widget_id: "logo"
 headless: true
 weight: 20
 active: true
