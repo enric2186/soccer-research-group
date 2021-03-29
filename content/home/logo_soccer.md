@@ -14,8 +14,8 @@ design:
   columns: "1"
   background:
     image: logo-1-.png
-    image_parallax: true
+    image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: actual
     text_color_light: true
 ---
