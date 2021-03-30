@@ -1,5 +1,4 @@
----
-widget: pages
+--- 
 headless: true 
 title: Research lines
 

@@ -1,8 +1,14 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
+widget: pages
+headless: true 
+title: Research lines
 
-# Homepage is headless, other widget pages are not.
-headless: true
-view: 3
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+design:
+  view: 1 
+  weight: 20
+
 ---
