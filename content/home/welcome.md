@@ -6,7 +6,7 @@ widget: blank
 widget_id: " "
 headless: true
 weight: 20
-title: Soccer Research Group
+title: About this Lab
 subtitle: ""
 design:
   columns: "1"
