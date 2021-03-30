@@ -22,6 +22,7 @@ design:
     image_size: cover
     text_color_light: true
     title: Photo by Kevin McMahon
+    caption: Credit to Kevin McMahon
   spacing:
     padding: ["20px", "0", "20px", "0"]
 advanced:
