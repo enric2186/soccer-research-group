@@ -28,4 +28,3 @@ design:
   columns: '1'
 ---
 
-{{< figure src="alhambra.jpg" caption="Credit to Kevin McMahon" >}}
