@@ -1,6 +1,7 @@
 ---
 title: Forensic identification
 summary: Computer vision applications for skeleton-based profiling and identification
+tags:
 - Human identification
 date: ""
 
