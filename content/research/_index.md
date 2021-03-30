@@ -6,8 +6,6 @@ title: Research lines
 #   1 = List
 #   2 = Compact
 #   3 = Card
-design:
-  view: 3 
-  weight: 20
+view: 3 
 
 ---
