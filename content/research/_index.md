@@ -10,9 +10,5 @@ weight: 20
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: logolong.png
-    image_position: center
-    image_size: actual
-    spacing:
-      padding: [200px, 0px, 200px, 0px]
+  image:
 ---

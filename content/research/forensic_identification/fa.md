@@ -3,13 +3,13 @@ title: Forensic identification
 
 event: Forensic identification 
 
-location: Wowchemy HQ
+location: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city:
+  region: 
+  postcode: 
+  country:
 
 summary: ""
 abstract: "Computer vision applications for skeleton-based profiling and identification"
