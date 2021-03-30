@@ -1,5 +1,4 @@
 ---
-widget: pages
 headless: true 
 title: Research lines
 
@@ -8,7 +7,7 @@ title: Research lines
 #   2 = Compact
 #   3 = Card
 design:
-  view: 1 
+  view: 3 
   weight: 20
 
 ---
