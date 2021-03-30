@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: ""
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
