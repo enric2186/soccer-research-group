@@ -15,7 +15,7 @@ subtitle: Photo by Kevin McMahon
 design:
   columns: "1"
   background:
-    image: kevin-mcmahon-krdaqfywjlw-unsplash.jpg
+    image: alhambra.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
