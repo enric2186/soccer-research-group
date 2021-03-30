@@ -28,5 +28,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
-
-"Credit to Kevin McMahon"
+{{< figure   caption="Credit to Kevin McMahon" >}}
