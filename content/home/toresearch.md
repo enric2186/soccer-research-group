@@ -10,7 +10,7 @@ design:
     padding: ["30px", "0", "30px", "0"]
     
 cta:
-  url: "event"
+  url: "research"
   label: More ...
   icon_pack: fas
   icon: book-open
