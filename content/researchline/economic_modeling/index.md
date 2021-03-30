@@ -1,56 +1,31 @@
 ---
 title: Economic modeling
-
-event: Economic modeling 
-
-location: 
-address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: 
-
-summary: ""
-abstract: "Strategic branding and agent-based modelling for computational economics."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+summary: Strategic branding and agent-based modelling for computational economics
+tags:
+- Agent-based Models
 date: ""
-date_end: ""
-all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: ""
-
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
+# Optional external URL for project (replaces project detail page).
+external_link: ""
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
+links: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
+authors: []
+projects: []
+# Slides (optional).
+#   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
+slides: example
 ---
 
 <div style="text-align: justify">

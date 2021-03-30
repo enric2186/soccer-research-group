@@ -3,6 +3,10 @@ title: Forensic identification
 summary: Computer vision applications for skeleton-based profiling and identification
 tags:
 - Human identification
+- Computer Vision
+- Soft Computing
+- Evolutionary Optimization
+- Deep Learning
 date: ""
 
 # Optional external URL for project (replaces project detail page).
