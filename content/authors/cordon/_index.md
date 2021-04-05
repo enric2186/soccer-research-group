@@ -5,6 +5,8 @@ title: Oscar Cordón
 # Is this the primary user of the site?
 superuser: true
 
+authors:
+- admin
 # Role/position
 role: Professor of Artificial Intelligence
 

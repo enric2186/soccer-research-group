@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Manuel Chica
+title: Manuel Chica Serrano
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ramon y Cajal Senior Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: University of Granada
-  url: ""
+  url: "https://www.ugr.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social simulation, agent-based modeling, evolutionary computation, and data science.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Simulation
+- Optimization
+- Data Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Artificial Intelligence and Computer Science (cum laude)
+    institution: University of Granada
+    year: 2011
+  - course: Master in Soft Computing and Intelligent Systems
+    institution: University of Granada
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Computer Science
+    institution: University of Jaen
+    year: 2006
+  - course: BSc in Computing Engineering (Management)
+    institution: University of Jaen
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +48,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:manuelchica@go.ugr.es'
+  link: '#contact'  # For a direct email link, use "mailto:manuelchica@ugr.es".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/manuelchicaserrano/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=4hbbNREAAAAJ&hl=en
+  link: https://scholar.google.es/citations?user=WpTg90wAAAAJ&hl=en
 - icon: orcid
-  icon_pack: fab
-  link: https://github.com/gcushen
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4717-1056
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/2779798/manuel-chica/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Manuel_Chica
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,9 +77,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
 
-Sergio Damas is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Manuel Chica is Ramon y Cajal Senior Researcher (RYC-2016-19800), granted by the Spanish Government, at the University of Granada (Computer Science and AI Deparment). He is also Chief AI Officer at ZIO Analytics and Conjoint Lecturer at the University of Newcastle, Australia. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His current research interests include agent-based modeling, evolutionary game theory, single and multi-objective evolutionary optimization, data science, and complex systems. His research is mainly applied and has been applied to a diverse range of fields: from industrial engineering and marketing, to healthcare systems and climate change.

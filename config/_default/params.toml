@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "SOCCER research group (University of Granada) description."
+description = "SOCCER lab (University of Granada) description."
 
 ############################
 ## Site Features
