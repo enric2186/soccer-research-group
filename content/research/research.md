@@ -8,7 +8,7 @@ widget: portfolio
 # Order that this section appears on the page.
 weight: 10
 
-title: Research Lines
+title: Research Areas
 subtitle: ''
 
 content:

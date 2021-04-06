@@ -1,0 +1,11 @@
+# Font style metadata
+name = "soccer"
+
+# Optional Google font URL
+google_fonts = "family=Open Sans:wght@700&family=Montserrat:wght@400;700&family=Crimson Text&family=Ubuntu:wght@400"
+
+# Font families
+heading_font = "Open Sans"
+body_font = "Crimson Text"
+nav_font = "Ubuntu"
+mono_font = "Crimson Text"
