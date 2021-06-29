@@ -2,9 +2,7 @@
 widget: blank
 headless: true
 weight: 10
-title: "Developing & researching
-
- applications of Soft Computing"
+title: "Members"
 design:
   columns: '1'
   background:

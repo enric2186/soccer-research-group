@@ -6,9 +6,8 @@ widget: portfolio
 # This file represents a page section.
  
 # Order that this section appears on the page.
-weight: 10
-
-title: Research Areas
+weight: 20
+ 
 subtitle: ''
 
 content:
@@ -27,14 +26,14 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

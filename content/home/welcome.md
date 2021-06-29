@@ -5,13 +5,13 @@ advanced:
 widget: blank
 widget_id: " "
 headless: true
-weight: 20
-title: About this Lab
+weight: 20 
 subtitle: ""
 design:
   columns: "1"
   spacing:
     padding: ["30px", "0", "30px", "0"]
+align: c
 ---
 
 <p style=" text-align: justify;"><b>Soft Computing </b> is a field of artificial intelligence that exploits the tolerance for imprecision and uncertainty to achieve tractability, 
@@ -28,3 +28,4 @@ Its members are especially focused on solving complex real-world problems using 
 to many different application areas as heating ventilation-air conditioning system control, information retrieval, electrical energy distribution, assembly line balancing, 
 visual science map design and mining, medical image segmentation and registration, skeleton-based forensic identification, and economic modeling.
 </p>
+ 

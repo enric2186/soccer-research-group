@@ -5,14 +5,14 @@ name = "Soccer"
 light = true
 
 # Primary
-primary = "#272E39"
-
+primary = "rgb(0, 0, 254)"
+title = "rgb(0, 0, 254)"
 # Menu
-menu_primary = "#272E39"
-menu_text = "#fff"
-menu_text_active = "#008b7e"
-menu_title = "#fff"
+menu_primary = "#ffffff"
+menu_text = "#000000"
+menu_text_active = "#000000"
+menu_title = "rgb(0, 0, 254)"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_even = "#E5E5E5"

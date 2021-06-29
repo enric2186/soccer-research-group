@@ -6,9 +6,9 @@ widget: portfolio
 # This file represents a page section.
  
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
-title: Featured Research Projects
+#title: Featured Research Projects
 subtitle: ''
 
 content:
